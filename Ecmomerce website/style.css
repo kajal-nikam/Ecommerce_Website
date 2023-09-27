@@ -281,6 +281,7 @@ ul {
 /* cart item */
 .cart-page {
   margin: 80px auto;
+  display:none;
 }
 table {
   width: 100%;
